@@ -1,6 +1,6 @@
 //
 //  LittleLemonDinnerMenuApp.swift
-//  LittleLemonDinnerMenu
+
 //
 //  Created by Kavinraja D
 //
